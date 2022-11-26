@@ -1,16 +1,5 @@
 # flutter_application_basic_tugas
 
-A new Flutter project.
+## Andi Mushawwir Rahmat TI-3B (2041720235)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Untitled design](https://user-images.githubusercontent.com/75873471/204102181-245ccb01-0200-4870-a273-4add94804ee4.png)
